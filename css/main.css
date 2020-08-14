@@ -16,6 +16,11 @@ a {
     text-decoration: none;
     color: #999;
 }
+img { 
+                width: 40%; 
+                height: 40%; 
+                object-fit: contain; 
+}
 a:hover {
     text-decoration: underline;
 }
