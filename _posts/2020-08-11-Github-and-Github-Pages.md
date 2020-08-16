@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Github and Github pages"
+title: "Introdution to Github and Github Pages"
 date: 2020-08-11
 ---
 
