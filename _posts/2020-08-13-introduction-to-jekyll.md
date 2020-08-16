@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-08-12
+date: 2020-08-13
 title: Introduction to Jekyll
 ---
 
