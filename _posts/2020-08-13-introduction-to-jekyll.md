@@ -12,8 +12,8 @@ I also learnt a bit about .yml files which are files that tell Jekyll some basic
 <p><img src="/images/yml.png"></p>
 I learned how to create posts and set up a blog so that all my posts can be autamatically displayed as they are created.
 
-<b> My first post
+<b> Creating my first post<b/>
 <p><img src="/images/firstpost.png"></p>
 
-My Blog page</b>
+<b>Creating my Blog page</b>
 <p><img src="/images/blog.png"></p>
