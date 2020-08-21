@@ -14,8 +14,8 @@ CSS refers to cascading style sheets. CSS applies a set of rules to HTML element
     <th>Details of Anatomy</th>
   </tr>
   <tr>
-    <td><img src="cssruleanatomy.png"></td>
-    <td><b>p</b> is an example of a selector. A selector is usually an element used within a Tag in an html document. Other selectors include img, a, classes etc.<p>Inside the parenthesis you find a <b>declaration </b> which consists of <b>a property</b> and the <b>value of the property</b></p>. Examples of a property value are color, width etc.</td>
+    <td><img src="images/cssruleanatomy.png"></td>
+    <td><b>p</b> is an example of a selector. A selector is usually an element used within a Tag in an html document. Other selectors include img, a, classes etc.<p>Inside the parenthesis you find a <b>declaration </b> which consists of <b>a property</b> and the <b>value of the property.</b></p> Examples of a property value are color, width etc.</td>
   </tr>
  
 </table>
