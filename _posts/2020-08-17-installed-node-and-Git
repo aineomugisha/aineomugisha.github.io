@@ -1,0 +1,7 @@
+layout: post
+date: 2020-08-17
+title: Intalled Git, Node.js and Browser-sync
+---
+I installed Gid, Node.js and Browser-Sync on my computer. I learnt that one of the uses of Browser-sync is to enable the developer see the result of changes to code in rea time.
+I learnec about branches and the role they play in ensuring that only code that has been carefully reviewed and tested can be put in the Master branch 
+<p><img src="/images/postlist.png"></p>
