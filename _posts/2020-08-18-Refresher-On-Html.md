@@ -3,17 +3,23 @@ layout: post
 date: 2020-08-18
 title: Refresher look at HTML
 ---
- Today I learnt more about HTML. I learnt aboaut document type declation ie, <!doctype html>, about the basic structure of an HTML document,
+<h3><p><b>Note: HTML is to Structure as CSS is to Style and as Java script is to behavior.</b></p></h3> 
+Today I learnt more about HTML. I learnt about document type declaration ie, <!doctype html>, about the basic structure of an HTML document,
  <p><img src="/images/htmlbasicstructure.png"></p>
- I learnt about different html tags, tag attributes, semantic elements like headings and sctions that help both the useer and the computer make sense of the html code.
-  <p><img src="/images/htmlbasicstructure.png"></p>
-I also learnt about <b>block-level elements and inline elements</b>. Block level elements like <b>&lt;div&gt;</b> require their own space which means they always display on the next line and any other elements that come after must also start on a new line. Inline elements mean that what ever is in them will display in the same line.
+ I learnt about different html tags, tag attributes, semantic elements like headings and sections that help both the user and the computer make sense of the html code.
+  <p><img src="/images/semanttichtmlelements.png"></p>
+I also learnt about <b>block-level elements and inline elements</b>. Block level elements like <b>&lt;div&gt;</b> require their own space which means they always display on the next line and any other elements that come after must also start on a new line. Inline elements mean that whatever is in them will display in the same line.
 <p><img src="/images/elements.png"></p>
  
 I was reminded about lists more so ordered lists<b>&lt;ol&gt;</b>(bulleted), unordered lists <b>&lt;ul&gt;</b> and <b>&lt;li&gt;</b> for list item. 
+<P>
+What stood out for me was the <><b>&lt;a&gt;</b> tag for hyperlinks that can be defined in a way that they can link to different sections of the same page by using ids. This is especially helpful because it makes it possible to send someone a link to a specific part of a web page. Which usually saves the users time.  </p>
 
-What stood out for me was the <><b>&lt;a&gt;</b> tag for hyperlinks that can be defined in a way that they can link to diffrent sections of the same page by using ids. This is especially helpful because it makes it possible to send someone a link to a specific part of a web page. Which usually saves the users time.  
-HTML is to Structure as CSS is to Style and as Java script is to behavior. I also learnt 
+<p>The newest thing I learnt today is how to tell html to print characters that would normally be recognised as part of the html syntax for example &lt; by writing &lt followed by a semicolon and or characters that do not usually exist on a keyboard like the copyright sign &copy; by writing &copy followed by a semicolon. </p>
+<p><img src="/images/entityref.png"></p>
+
+
+
 
 
 
