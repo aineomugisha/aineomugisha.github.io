@@ -6,7 +6,6 @@ Date: 2020-08-20
 <h3>“The secret of getting ahead is getting started.” – Mark Twain</h3> 
 
 CSS refers to cascading style sheets. CSS applies a set of rules to HTML elements in order to govern how they are displayed in a web page or a browser. The beauty with CSS is it helps one avoid repeating the same code for every element in html and in turn makes writing code for any size of website faster and less tiring. A set of CSS rules is referred to as a style sheet.
-<div style="overflow-x:auto;">
 <table>
   <tr>
     <td><img src="/images/cssruleanatomy.png"></td>
@@ -14,7 +13,7 @@ CSS refers to cascading style sheets. CSS applies a set of rules to HTML element
   </tr>
  
 </table>
-</div>
 
-Ok, what is up with this?
+
+
 
