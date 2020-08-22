@@ -15,5 +15,3 @@ CSS refers to cascading style sheets. CSS applies a set of rules to HTML element
 </table>
 
 
-
-
