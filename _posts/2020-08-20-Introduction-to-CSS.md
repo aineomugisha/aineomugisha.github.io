@@ -1,5 +1,5 @@
 ---
-layout: Default 
+layout: post 
 Title: "Introduction to CSS"
 Date: 2020-08-20
 ---
