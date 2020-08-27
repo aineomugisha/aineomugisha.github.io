@@ -1,6 +1,6 @@
 ---
 layout: post 
-Title: "Introduction to CSS - and then there were 3"
+Title: Introduction to CSS
 Date: 2020-08-20
 ---
 <h3>“The secret of getting ahead is getting started.” – Mark Twain</h3> 
