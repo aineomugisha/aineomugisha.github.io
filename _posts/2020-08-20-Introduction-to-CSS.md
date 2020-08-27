@@ -22,7 +22,7 @@ The images below show the syntax of working with these selectors
     <td><img src = "/images/elementselector.png"></td> <td><img src = "/images/classselector.png"></td>
     </tr>>
     <tr> 
-      <td><img src = "images/idselector.png"></td> <td><img src = "/images/selectors.png"></td>
+      <td><img src = "/images/idselector.png"></td> <td><img src = "/images/selectors.png"></td>
     </tr>>
 </Table>>
 
@@ -34,7 +34,7 @@ The images below show the syntax of working with these selectors
     <td><img src = "/images/elementselector.png"></td> <td><img src = "/images/classselector.png"></td>
     </tr>>
     <tr> 
-      <td><img src = "images/idselector.png"></td> <td><img src = "/images/selectors.png"></td>
+      <td><img src = "/images/idselectors.png"></td> <td><img src = "/images/selectors.png"></td>
     </tr>
 </Table>
 
@@ -47,6 +47,6 @@ Here is all this information in pictures:
     <td><img src = "/images/Elementwithclassselector.png"></td> <td><img src = "/images/childselector.png"></td>
     </tr>>
     <tr> 
-      <td><img src = "/images/descendantselector.png"></td> <td><img src = "/images/combinedselector.png"></td>
+      <td><img src = "/images/descendantselector.png"></td> <td><img src = "/images/Combiningselectors.png"></td>
     </tr>>
 </Table>
