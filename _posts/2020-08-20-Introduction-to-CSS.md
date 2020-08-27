@@ -20,11 +20,11 @@ The images below show the syntax of working with these selectors
 <Table>
   <tr>
     <td><img src = "/images/elementselector.png"></td> <td><img src = "/images/classselector.png"></td>
-    </tr>>
+    </tr>
     <tr> 
       <td><img src = "/images/idselector.png"></td> <td><img src = "/images/selectors.png"></td>
-    </tr>>
-</Table>>
+    </tr>
+</Table>
 
 <h2>Element, Class, ID selectors</h2>
 As element is something that is used in an html tag to design the structure of a section or part of an html document. These include a, h, p, header etc.. where as a class and an ID are usually attibutes of elements. 
@@ -32,7 +32,7 @@ The images below show the syntax of working with these selectors
 <Table>
   <tr>
     <td><img src = "/images/elementselector.png"></td> <td><img src = "/images/classselector.png"></td>
-    </tr>>
+    </tr>
     <tr> 
       <td><img src = "/images/idselectors.png"></td> <td><img src = "/images/selectors.png"></td>
     </tr>
@@ -45,8 +45,8 @@ Here is all this information in pictures:
 <Table>
   <tr>
     <td><img src = "/images/Elementwithclassselector.png"></td> <td><img src = "/images/childselector.png"></td>
-    </tr>>
+    </tr>
     <tr> 
       <td><img src = "/images/descendantselector.png"></td> <td><img src = "/images/Combiningselectors.png"></td>
-    </tr>>
+    </tr>
 </Table>
