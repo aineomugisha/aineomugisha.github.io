@@ -29,6 +29,8 @@ table {
   padding-bottom: 0;
     Padding-top: 0;
                 object-fit: contain; 
+    border-collapse: collapse;
+    border-spacing: 0px;
 }
 
 table p{ 
