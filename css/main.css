@@ -27,6 +27,7 @@ table {
                 height: 100%; 
     margin: 0;
   padding-bottom: 0;
+    Padding-top: 0;
                 object-fit: contain; 
 }
 
