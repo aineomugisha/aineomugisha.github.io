@@ -62,7 +62,7 @@ footer {
 }
 
 ul.posts { 
-   /* margin: 20px auto 40px; */
+   margin: 20px auto 40px;
     font-size: 1em;
 }
 .posts{
@@ -70,7 +70,7 @@ ul.posts {
    column-gap:10px;
     column-width:30%;
     column-height:50%;
-    display: flex;
+    /*display: flex;*/
 }
 
 ul.posts li {
