@@ -70,6 +70,7 @@ ul.posts {
    column-gap:10px;
     column-width:300px;
     column-height:100px
+    display: flex;
 }
 
 ul.posts li {
