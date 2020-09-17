@@ -14,7 +14,8 @@ header img
 .topsectionright
 {
 float:right;
- position:relative;}
+ position:relative;
+border-bottom:3px solid black;}
 /*end of top section styling*/
 
 /*social icons*/
