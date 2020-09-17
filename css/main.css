@@ -41,6 +41,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+     column-span: all;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -58,6 +59,10 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+}
+.posts{
+    column-count:3;
+   column-gap:10px;
 }
 
 ul.posts li {
