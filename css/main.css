@@ -1,7 +1,22 @@
+/* default layout top section styiling */
+.topsectionleft
+{
+float:left center;
+}
+header img
+{
+    float:center;
+}
+.topsectionleft
+{
+float:right center;}
+/*end of top section styling*/
+/*social icons*/
 li img{
 width:25px;
 height:25px;
 }
+
 
 body {
     margin: 60px auto;
