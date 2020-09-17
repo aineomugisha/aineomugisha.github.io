@@ -38,6 +38,9 @@ nav ul li, footer ul li, header ul li {
     display: inline;
     margin-right: 20px;
 }
+
+nav{justify-content: center:}
+
 a {
     text-decoration: none;
     color: #999;
