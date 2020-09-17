@@ -2,15 +2,19 @@
 .topsectionleft
 {
 float:left center;
+    position:relative;
 }
 header img
 {
     float:center;
+     position:relative;
 }
 .topsectionleft
 {
-float:right center;}
+float:right center;
+ position:relative;}
 /*end of top section styling*/
+
 /*social icons*/
 li img{
 width:25px;
