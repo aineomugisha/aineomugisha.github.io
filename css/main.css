@@ -68,8 +68,8 @@ ul.posts {
 .posts{
     column-count:3;
    column-gap:10px;
-    column-width:30%;
-    column-height:50%
+    column-width:300px;
+    column-height:100px
 }
 
 ul.posts li {
