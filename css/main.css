@@ -1,6 +1,6 @@
 li img{
-width:20px;
-height:20px;
+width:25px;
+height:25px;
 }
 
 body {
@@ -13,7 +13,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li, footer ul li, header ul li {
     display: inline;
     margin-right: 20px;
 }
