@@ -7,8 +7,10 @@ float:left;
 }
 header img
 {
-    float:center center;
-     position:relative;
+    /*float:center center;
+     position:relative;*/
+      display: inline-block;
+    margin:0 auto;
     width:100px;
     height:100px;
 }
