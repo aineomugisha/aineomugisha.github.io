@@ -44,7 +44,9 @@ nav ul li, footer ul li, header ul li {
 
 nav{justify-content: center;
 border-top:3px solid black;
-width:100;}
+width:100%;
+text-align:center;
+margin:auto;}
 
 a {
     text-decoration: none;
