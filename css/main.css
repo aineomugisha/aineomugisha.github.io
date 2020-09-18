@@ -3,7 +3,7 @@
 {
 float:left;
     position:relative;
-    border-top:3px solid black;
+    /*border-top:3px solid black;*/
 }
 header img
 {
@@ -16,7 +16,7 @@ header img
 {
 float:right;
  position:relative;
-border-bottom:3px solid black;}
+}
 /*end of top section styling*/
 
 /*social icons*/
@@ -29,6 +29,7 @@ height:25px;
 body {
     margin: 60px auto;
     width: 70%;
+    border-top:3px solid black;}
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
