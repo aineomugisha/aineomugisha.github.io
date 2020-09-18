@@ -9,7 +9,7 @@ title: Aineomugisha's Blog
 	    <li>
 		    <span>{{ post.date | date_to_string }}</span> » 
 		    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>			
-		    <div> {{ post.excerpt| truncate: 200 }} </div>
+		    <div> {{ post.content| truncate: 200 }} </div>
 	    </li>
 		 
 		
