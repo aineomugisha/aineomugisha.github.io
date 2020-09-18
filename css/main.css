@@ -7,7 +7,8 @@ float:left;
 }
 #logo
 {
-      display: inline-block;
+     float:top center;
+    display: inline-block;
     margin:0 auto;
     width:20%;
     height:20%;
