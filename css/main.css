@@ -29,7 +29,7 @@ height:25px;
 body {
     margin: 60px auto;
     width: 70%;
-    border-top:3px solid black;}
+  }
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -44,6 +44,7 @@ nav ul li, footer ul li, header ul li {
 
 nav{justify-content: center;
 border-top:3px solid black;
+border-bottom:3px solid black;
 width:100%;
 text-align:center;
 margin:auto;}
