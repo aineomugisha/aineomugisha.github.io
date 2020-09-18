@@ -3,6 +3,7 @@
 {
 float:left;
     position:relative;
+    border-top:3px solid black;
 }
 header img
 {
@@ -40,7 +41,8 @@ nav ul li, footer ul li, header ul li {
     margin-right: 20px;
 }
 
-nav{justify-content: center:}
+nav{justify-content: center;
+border-top:3px solid black;}
 
 a {
     text-decoration: none;
