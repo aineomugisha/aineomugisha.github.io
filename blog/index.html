@@ -22,7 +22,7 @@ title: Aineomugisha's Blog
   <span class="date">{{ post.date }}</span>
 </p>
 <div class="content">
-  {{ post.content }}
+  {{ post.content | truncate: 200 }}
 </div>
 {% endfor %}
 
