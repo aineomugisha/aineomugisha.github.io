@@ -1,6 +1,8 @@
-name: Hank Quinlan, Horrible Cop
+name: Lynn Aineomugisha, Participant at Powercoders
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:
+- jekyll-paginate
 
+paginate_path: "/menu/blog/page:num/"
 paginate: 3
-paginate_path: "/blog/page:2/"
