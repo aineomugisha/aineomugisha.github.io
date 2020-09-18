@@ -43,7 +43,8 @@ nav ul li, footer ul li, header ul li {
 }
 
 nav{justify-content: center;
-border-top:3px solid black;}
+border-top:3px solid black;
+width:100;}
 
 a {
     text-decoration: none;
