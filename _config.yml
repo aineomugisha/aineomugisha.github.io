@@ -1,7 +1,7 @@
 name: Lynn Aineomugisha, Participant at Powercoders
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-gems: "jekyll-paginate"
+#gems: "jekyll-paginate"
 gems: - jekyll-paginate
 
 paginate_path: "/menu/blog/page:num/"
