@@ -32,7 +32,7 @@ height:25px;
 
 main{
 display:flex;
-flex-direction:column;
+flex-direction:row;
 }
 
 nav ul, footer ul {
