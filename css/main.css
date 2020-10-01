@@ -34,9 +34,15 @@ main{
 display:flex;
 flex-direction:row;
 }
+.blurb{
+    flex-grow:1;
+    flex-basis:60%;
+}
+
 
 aside{
-flex-basis:50%;}
+    flex-grow:1;
+flex-basis:40%;}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
