@@ -15,5 +15,5 @@ date: 2020-10-01
 <br>- Learnt how to print stuff on a new line using \n
 <img src="/images/ageCalculator.png" alt="code for showing retirement age calculator and how to extract the year using new Date function">
 - How to replace characters in a string
-<img src="/images/quotes.png" alt="code with replacing special characters">
+<img src="/images/quotes.png" alt="code with replacing special characters" width='80%' height='80%'>
 
