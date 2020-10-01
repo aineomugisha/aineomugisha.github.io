@@ -14,6 +14,6 @@ Continued to practice writing Pseudo code
 <br>- Learnt how to print stuff on a new line using \n
 <img src="/images/ageCalculator.png" alt="code for showing retirement age calculator and how to extract the year using new Date function">
 
-- How to replace characters in a string
+How to replace characters in a string
 <br><img src="/images/quotes.png" alt="code with replacing special characters" width='80%' height='80%'>
 
