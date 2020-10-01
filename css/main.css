@@ -97,9 +97,9 @@ ul.posts {
     font-size: 1em;
 }
 .posts{
-    column-count:3;
+    column-count:2;
    column-gap:10px;
-    column-width:30%;
+    column-width:50%;
     column-height:100px;
     /*display: flex;*/
 }
