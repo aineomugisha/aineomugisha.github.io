@@ -29,7 +29,12 @@ body {
     margin: 60px auto;
     width: 70%;
   }
+
+main{
+display:flex;
+flex-direction:row;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
