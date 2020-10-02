@@ -115,7 +115,7 @@ ul.posts {
     flex-wrap:wrap;
     overflow:hidden;
     height:300px;
-    width;300px;
+    width;200px;
    /* column-count:2;
    column-gap:10px;
     column-width:50%;
@@ -135,3 +135,6 @@ ul.posts li {
 font-size:1px,}
 
 h2{padding: 0;}
+
+aside ul{
+list-style:none;}
