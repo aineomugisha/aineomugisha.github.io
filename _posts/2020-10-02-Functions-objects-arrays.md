@@ -11,6 +11,12 @@ Syntax of a funtion
 <img src="/images/objectExample.png" alt="syntax of object">
 <br>-Object constructor
 <img src="/images/objectConstructor.png" alt="syntax of object Constructor">
+<br>-Creating Instances of Objects
+<img src="/images/creatingInstancesOfObject.png" alt="creating Instances Of Object">
+<br>- Accessing Objects
+<img src="/images/accessingObjects.png" alt="Accessing Objects">
+<br>- Displaying Property Values And Keys
+<img src="/images/propertyValuesAndKeys.png" alt="Property Values And Keys">
 <br>-Working with Dates
 <img src="/images/dates.png" alt="working with dates">
 <br>- Declaring Arrays
@@ -19,4 +25,4 @@ Syntax of a funtion
 <img src="/images/randomObjectArray.png" alt="selecting Random Object from Array">
 <br>- <a href="https://www.w3schools.com/jsref/jsref_obj_array.asp>"Array Methods<a/>
 
-<br>-Week4
+<br>-Days code Week4
