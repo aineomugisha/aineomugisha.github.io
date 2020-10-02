@@ -67,8 +67,8 @@ a {
     color: #999;
 }
 img { 
-                width: 100%; 
-                height: 100%; 
+                width: 60%; 
+                height: 60%; 
                 object-fit: contain; 
 }
 
@@ -115,6 +115,7 @@ ul.posts {
     flex-wrap:wrap;
     overflow:hidden;
     height:300px;
+    width;300px;
    /* column-count:2;
    column-gap:10px;
     column-width:50%;
