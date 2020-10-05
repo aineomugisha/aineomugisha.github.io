@@ -42,7 +42,6 @@ height:25px;
 
 main{
 display:flex;
-flex-direction:row;
 flex-wrap:wrap;
 }
 
@@ -54,7 +53,7 @@ flex-wrap:wrap;
 
 
 aside{
-    flex-grow:1;
+    flex-grow:0;
 }
 
 nav ul, footer ul {
