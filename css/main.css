@@ -9,7 +9,7 @@ header{
 
 .topsectionleft
 {
-    flex-grow:1;
+      /*flex-grow:1;*/
   
 }
 
@@ -22,8 +22,8 @@ header{
 
 .topsectionright
 {
-    flex-grow:1;
-/*float:right;
+   /* flex-grow:1;
+float:right;
  position:relative;*/
 }
 /*end of top section styling*/
