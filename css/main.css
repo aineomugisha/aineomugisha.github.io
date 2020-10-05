@@ -9,25 +9,22 @@ header{
 
 .topsectionleft
 {
-    /*flex-grow:1;
-    
-    float:left;
-    position:relative;
-    /*border-top:3px solid black;*/
+    flex-grow:1;
+    align-items:left;
 }
 
 #logo
 {
    width:100px;
     height:100px;
-    /*flex-grow:1;*/
-    align-content:center;
+    flex-grow:1;
+    align-items:center;
 }
 
 .topsectionright
 {
-    align-content:right;
-    /*flex-grow:1;*/
+    align-items:right;
+    flex-grow:1;
 /*float:right;
  position:relative;*/
 }
