@@ -9,9 +9,9 @@ header{
 
 .topsectionleft
 {
-    flex-grow:1;
+    /*flex-grow:1;
     
-    /*float:left;
+    float:left;
     position:relative;
     /*border-top:3px solid black;*/
 }
@@ -20,14 +20,14 @@ header{
 {
    width:100px;
     height:100px;
-    flex-grow:1;
+    /*flex-grow:1;*/
     align-content:center;
 }
 
 .topsectionright
 {
     align-content:right;
-    flex-grow:1;
+    /*flex-grow:1;*/
 /*float:right;
  position:relative;*/
 }
