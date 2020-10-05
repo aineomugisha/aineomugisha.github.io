@@ -48,13 +48,12 @@ flex-wrap:wrap;
 
 .blurb{
     flex-grow:1;
-    flex-basis:60%;
+  
 }
 
 
 aside{
     flex-grow:1;
-flex-basis:40%;}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
