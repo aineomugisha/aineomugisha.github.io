@@ -4,13 +4,13 @@
 header{
     display:flex;
     flex-direction:row;
-    /*justify-content: center;*/
+    justify-content: space-between;
 }
 
 .topsectionleft
 {
     flex-grow:1;
-    align-items:left;
+  
 }
 
 #logo
@@ -18,12 +18,10 @@ header{
    width:100px;
     height:100px;
     flex-grow:1;
-    align-items:center;
 }
 
 .topsectionright
 {
-    align-items:right;
     flex-grow:1;
 /*float:right;
  position:relative;*/
