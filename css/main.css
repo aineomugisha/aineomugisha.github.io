@@ -2,6 +2,8 @@
 header{
  display:flex;
     flex-direction:row;
+ justify-content: center;
+
 }
 .topsectionleft
 {
@@ -17,8 +19,6 @@ header{
     width:20%;
     height:20%;
   padding:0px 0px 0px 140px;*/
-    width:10%;
-    height:10%;
     flex-grow:1;
 }
 .topsectionright
@@ -67,13 +67,11 @@ nav ul li, footer ul li, header ul li {
 }
 
 nav{
-    display:flex;
-    flex-direction:column;
     justify-content: center;
 border-top:3px solid black;
 border-bottom:3px solid black;
 /*width:100%;
-text-align:center;*/
+text-align:center;
 margin:auto;}
 
 a {
