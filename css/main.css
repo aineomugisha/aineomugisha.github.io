@@ -43,6 +43,7 @@ height:25px;
 main{
 display:flex;
 flex-direction:row;
+flex-wrap:wrap;
 }
 
 .blurb{
