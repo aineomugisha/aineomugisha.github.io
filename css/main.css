@@ -1,4 +1,8 @@
 /* default layout top section styiling */
+header{
+ display:flex;
+    flex-direction:column;
+}
 .topsectionleft
 {
     flex-grow:1;
