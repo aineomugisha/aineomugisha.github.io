@@ -18,14 +18,15 @@ header{
 
 #logo
 {
-   width:75px;
-    height:75px;
+   width:100px;
+    height:100px;
     flex-grow:1;
+    align-content:center;
 }
 
 .topsectionright
 {
-    flex
+    align-content:right;
     flex-grow:1;
 /*float:right;
  position:relative;*/
