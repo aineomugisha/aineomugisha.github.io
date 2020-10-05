@@ -65,7 +65,7 @@ nav ul li, footer ul li, header ul li {
 
 nav{
     display:flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content: center;
 border-top:3px solid black;
 border-bottom:3px solid black;
