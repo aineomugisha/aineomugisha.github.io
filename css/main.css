@@ -137,7 +137,7 @@ ul.posts {
     display: flex;*/
 }
 .posts>li{
-flex-basis:40%;
+flex-basis:33%;
     flex-grow:1;
 }
 
