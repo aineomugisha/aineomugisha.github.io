@@ -55,8 +55,8 @@ flex-wrap:wrap;
 
 
 aside{
-    flex-grow:1;
-    border:3px solid grey;
+   border: 1px solid #d5d5d5;
+    background-color:white;
 }
 
 a {
@@ -102,7 +102,8 @@ ul.posts {
     column-width:50%;
     column-height:100px;
     display: flex;*/
-    border:3px solid grey;
+    background-color:white;
+    border: 1px solid #d5d5d5;
 }
 .posts>li{
 flex-basis:33%;
