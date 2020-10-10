@@ -129,5 +129,7 @@ text-align:center;}
     display:flex;
  justify-content: center;
 }
-
+ul{
+    padding-inline-start: 0px;
+}
 
