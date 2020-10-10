@@ -1,6 +1,9 @@
 
 
 /* default layout top section styling */
+*{
+font-family: "Lucida Sans";
+}
 header{
     display:flex;
     flex-direction:row;
@@ -44,6 +47,7 @@ margin:auto;}
 main{
 display:flex;
 flex-wrap:wrap;
+padding:10px;
 }
 
 .blurb{
