@@ -6,9 +6,7 @@ Date: 2020-08-20
 <h3>“The secret of getting ahead is getting started.” – Mark Twain</h3> 
 
 CSS refers to cascading style sheets. CSS applies a set of rules to HTML elements in order to govern how they are displayed in a web page or a browser. The beauty with CSS is it helps one avoid repeating the same code for every element in html and in turn makes writing code for any size of website faster and less tiring. A set of CSS rules is referred to as a style sheet.
-<span id="dots">...</span>
-<span id="more">
-  
+
     <img src="/images/cssruleanatomy.png">
     <p><b>P</b> is an example of a selector. A selector is usually an element used within a Tag in an html document. Other selectors include img, a, classes and Ids etc.</p><p>Inside the parenthesis you find a <b>declaration </b> which consists of <b>a property</b> and the <b>value of the property</b>. Examples of a property value are color, width etc.</p>
   
@@ -46,25 +44,6 @@ Here is all this information in pictures:
     <img src = "/images/Elementwithclassselector.png"> <img src = "/images/childselector.png">
     
      
-      <img src = "/images/descendantselector.png"> <img src = "/images/Combiningselectors.png"></span>
+      <img src = "/images/descendantselector.png"> <img src = "/images/Combiningselectors.png">
     
 
-<br><button onclick="myFunction()" id="myBtn">Read more</button>
-<script>
-    function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more";
-    moreText.style.display = "none";
-
-   } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less";
-    moreText.style.display = "inline";
-  }
-}
-</script>
