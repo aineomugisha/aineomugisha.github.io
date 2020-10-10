@@ -126,11 +126,12 @@ list-style:none;}
 button{
 text-align:center;}
 
-.loadmore{
+.loadmore:hover {
     display:flex;
  justify-content: center;
 }
 ul{
     padding-inline-start: 0px;
 }
+
 
