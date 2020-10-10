@@ -110,7 +110,7 @@ ul.posts {
  
 }
 .posts>li{
-flex-basis:400px;
+flex-basis:350px;
     flex-grow:1;
 }
 
