@@ -79,7 +79,7 @@ a:hover {
 h1 {
    flex-basis:100%;
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Lucida Sans";
 }
 p {
     font-size: 1.5em;
@@ -101,17 +101,12 @@ ul.posts {
     flex-wrap:wrap;
     overflow:hidden;
     height:400px;
-   /* column-count:2;
-   column-gap:10px;
-    column-width:50%;
-    column-height:100px;
-    display: flex;*/
-    background-color:white;
  
 }
 .posts>li{
 flex-basis:350px;
     flex-grow:1;
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 ul.posts li {
