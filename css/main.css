@@ -57,6 +57,7 @@ flex-wrap:wrap;
 aside{
    border: 1px solid #d5d5d5;
     background-color:white;
+    flex-shrink:1;
 }
 
 a {
