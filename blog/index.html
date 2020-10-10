@@ -11,13 +11,13 @@ title:
 		    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>			
 		    <div> {{ post.content| truncate: 200 }} </div>-->
 		    {{ post.date | date_to_string }}
-		    <a href="{{ post.url }}">{{ post.title }}{{ post.content| truncate: 200 }}</a>
-      			
+		    <a href="{{ post.url }}">{{ post.title }}</a>
+		    {{ post.content| truncate: 200 }}
 	    </li>
 		 
 		
 	  {% endfor %}
-		<li><button type="button"
+		<li class='loadmore'><button type="button"
 onclick="getElementsByClassName('.posts').style.max-height = '100%'">
 			LOAD MORE</button></li>
 		
