@@ -44,18 +44,16 @@ margin:auto;}
 main{
 display:flex;
 flex-wrap:wrap;
-    background-color:grey;
 }
 
 .blurb{
     flex-grow:1;
-    flex-basis:400px;
+    flex-basis:60%;
     padding-left:40px;
 }
 
 
 aside{
-   border: 1px solid #d5d5d5;
     background-color:white;
     flex-shrink:1;
 }
