@@ -3,7 +3,6 @@
 /* default layout top section styling */
 *{
     font-family: "Lucida Sans";
-    font-size:1.5em;
 }
 header{
     display:flex;
