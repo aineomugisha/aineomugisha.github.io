@@ -148,6 +148,7 @@ height:40px;}
 @media only screen and (max-width: 400px){
     main{display;flex;
      flex-direction:column;
+        flex-wrap:wrap;
     }
     /*nav{font-size: 3;}
     img{width:150px;
