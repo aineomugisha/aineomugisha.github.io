@@ -108,7 +108,7 @@ ul.posts {
 flex-basis:350px;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    margin:10px;
+    padding:10px;
     font-size:1em;
    
 }
