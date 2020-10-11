@@ -72,6 +72,7 @@ a {
 img { 
        width: 60%; 
        height: 60%; 
+    display:block;
 }
 a:hover {
     text-decoration: underline;
