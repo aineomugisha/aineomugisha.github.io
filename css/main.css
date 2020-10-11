@@ -100,8 +100,8 @@ ul.posts {
 .posts{
     display:flex;
     flex-wrap:wrap;
-    overflow:hidden;
-    height:400px;
+    /*overflow:hidden;
+    height:400px;*/
  
 }
 .posts>li{
