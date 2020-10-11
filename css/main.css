@@ -100,12 +100,12 @@ ul.posts {
 .posts{
     display:flex;
     flex-wrap:wrap;
-    /*overflow:hidden;*/
+    overflow:hidden;
     height:300px;
  
 }
 .posts>li{
-flex-basis:350px;
+flex-basis:300px;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     padding:10px;
