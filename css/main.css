@@ -145,11 +145,11 @@ nav img, footer img{
 width:40px;
 height:40px;}
 
-/* @media only screen and (max-width: 767px){
+@media only screen and (max-width: 800px){
     main{display;flex;
-     flex;}
-    nav{font-size: 3;}
+     flex-direction:column;}
+    /*nav{font-size: 3;}
     img{width:150px;
-    height: 150px;}
-  }*/
+    height: 150px;}*/
+  }
 
