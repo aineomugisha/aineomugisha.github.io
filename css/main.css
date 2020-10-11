@@ -32,7 +32,6 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-size:2vw;
 }
 
 nav ul li, footer ul li, header ul li {
@@ -79,7 +78,7 @@ a:hover {
 }
 h1 {
    flex-basis:100%;
-    font-size: 3em;
+    font-size: 1.5em;
     font-family: "Lucida Sans";
 }
 p {
