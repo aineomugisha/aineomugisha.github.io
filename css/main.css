@@ -32,12 +32,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size:1.5vw;
 }
 
 nav ul li, footer ul li, header ul li {
     display: inline;
     margin-right: 20px;
-    font-size:1.5vw;
+    
 }
 
 nav{
