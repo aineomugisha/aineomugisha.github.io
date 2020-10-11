@@ -21,8 +21,9 @@ header img
 
 /*social icons*/
 li img{
-    width:100px;
-    height:100px;
+    width:200px;
+    height:200px;
+    
 }
 
 nav ul, footer ul {
@@ -135,5 +136,7 @@ text-align:center;}
 ul{
     padding-inline-start: 0px;
 }
-
+.linkedin{
+width:30px;
+height:30px;}
 
