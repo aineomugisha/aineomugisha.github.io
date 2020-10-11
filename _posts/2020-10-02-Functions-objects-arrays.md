@@ -2,6 +2,7 @@
 layout: post
 title: "Functions, Objects and Arrays"
 date: 2020-10-02
+excerpt: Your custom excerpt.
 ---
 
 Syntax of a funtion 
