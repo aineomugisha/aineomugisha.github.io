@@ -98,15 +98,15 @@ ul.posts {
     font-size: 1em;
 }
 .posts{
-    /*display:flex;
+    display:flex;
     flex-wrap:wrap;
     overflow:hidden;
-    height:400px;*/
+    height:400px;
  
 }
 .posts>li{
-/*flex-basis:350px;
-    flex-grow:1;*/
+flex-basis:350px;
+    flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin:5px;
 }
