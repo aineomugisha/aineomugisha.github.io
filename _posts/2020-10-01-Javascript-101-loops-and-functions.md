@@ -1,5 +1,6 @@
+---
 layout: post
-title: "Javascript: Some loops and funtions"
+title: "Javascript (Some loops and funtions)"
 date: 2020-10-01
 ---
 
