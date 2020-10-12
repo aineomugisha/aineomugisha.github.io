@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multidimentional Array, Javascript libraries and Frameworks"
-date: 2020-10-02
+date: 2020-10-12
 
 ---
 
