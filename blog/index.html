@@ -5,10 +5,10 @@ title: Leaning Blog
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 		
-	<li>{% for post in paginator.posts %} 
-		  {{ post.date | date_to_string }}
+	{% for post in paginator.posts %} 
+		<li>  {{ post.date | date_to_string }}
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-{{ post.content | truncatewords:200 }}</li>
+{{ post.content | truncate:200 }}</li>
 {% endfor %}	 	
 	</ul>
 
