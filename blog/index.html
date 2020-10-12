@@ -5,22 +5,17 @@ title: Leaning Blog
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 		
-	
+	<li>{% for post in paginator.posts %} 
+{{ post.title }}
+{{ post.content | strip_html | truncatewords:40 }}
+{% endfor %}
 
 	  <!--{% for post in site.posts %}-->
 		{% for post in paginator.posts %}
-	    <li>
-		   <!-- <span>{{ post.date | date_to_string }}</span> » 
-		    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>			
-		    <div> {{ post.content| truncate: 400 }} </div>} -->
-		    {{ post.date | date_to_string }}
-		    <a href="{{ post.url }}">{{ post.date | date_to_string }}{{ post.title }}</a>
-		   {{ post.content| truncate: 100 }}
-		    
-	    </li>
+	   
 		 
 		
-	  {% endfor %}
+	  {% endfor %}</li>
 		
 		
 	</ul>
@@ -60,6 +55,3 @@ title: Leaning Blog
 {% endif %}
 {% endif %}
 {% endif %}
-
-
-
