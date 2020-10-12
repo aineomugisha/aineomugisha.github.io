@@ -104,21 +104,18 @@ ul.posts {
     font-size: 1em;
 }
 .posts{
-    column-count:3;
-    colu
-    /*display:flex;
+    display:flex;
     flex-direction:row;
     flex-wrap:wrap;
-    height:300px;*/
+    height:300px;
    
- 
 }
 .posts>li{
-/*flex-basis:300px;
+flex-basis:300px;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin:5px;
-    font-size:1em;*/
+    font-size:1em;
    
 }
 
