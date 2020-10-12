@@ -107,14 +107,13 @@ ul.posts {
 }
 .posts{
     display:flex;
-    flex-direction:row;
     flex-wrap:wrap;
    /* overflow:hidden;
     height:400px;*/
    
 }
 .posts li{
-flex-basis:100px;
+flex-basis:300px;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin:5px;
