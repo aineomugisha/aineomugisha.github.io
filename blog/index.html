@@ -4,6 +4,10 @@ title: Leaning Blog
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
+		
+		{% for post in site.posts limit:3 %}
+  {{ post.url }}
+{% endfor %}
 
 	  {% for post in site.posts %}
 	    <li>
@@ -22,33 +26,3 @@ title: Leaning Blog
 		
 	</ul>
 
-
-
-<!--{% for post in site.posts %}
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-<p class="author">
-  <span class="date">{{ post.date | date_to_string }}</span>
-</p>
-<div class="content">
-  {{ post.content | truncate: 200 }}
-</div>
-{% endfor %}
-
- Pagination links 
-<div class="pagination">
-{% if site.previous_page %}
-  <a href="{{ site.previous_page_path }}" class="previous">
-	Previous
-  </a>
-{% else %}
-  <span class="previous">Previous</span>
-{% endif %}
-<span class="page_number ">
-  Page: {{ site.post }} of {{ site.total_pages }}
-</span>
-{% if site.next_page %}
-  <a href="{{ site.next_page_path }}" class="next">Next</a>
-{% else %}
-  <span class="next ">Next</span>
-{% endif %}
-</div>-->
