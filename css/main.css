@@ -4,15 +4,13 @@
 *{
     font-family: "Lucida Sans";
 }
-body{
-background-color: rgb(204, 204, 200);
-}
+
 header{
     display:flex;
     flex-direction:row;
     justify-content: center;
     padding-bottom:10px;
-        background-color: grey);
+       
 }
 h2{
     text-align:center;
@@ -61,7 +59,7 @@ nav{
     display:flex;
     flex-wrap:wrap;
     padding:10px;
-        background-color:red;
+        
 }
 
 .blurb{
