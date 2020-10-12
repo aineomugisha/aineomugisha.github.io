@@ -8,8 +8,8 @@ title: Leaning Blog
 	<li>{% for post in paginator.posts %} 
 		  {{ post.date | date_to_string }}
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-{{ post.content | truncatewords:200 }}
-{% endfor %}</li>	 	
+{{ post.content | truncatewords:200 }}</li>
+{% endfor %}	 	
 	</ul>
 
 
