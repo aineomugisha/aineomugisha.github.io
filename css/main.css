@@ -3,6 +3,7 @@
 /* default layout top section styling */
 *{
     font-family: "Lucida Sans";
+    min-height=100vh;
 }
 header{
     display:flex;
@@ -104,19 +105,20 @@ ul.posts {
     font-size: 1em;
 }
 .posts{
-    display:flex;
+    /*display:flex;
     flex-direction:row;
     flex-wrap:wrap;
-    /*height:300px;*/
-    color:red;
+    height:300px;
+    color:red;*/
+    column-count:3;
  
 }
 .posts>li{
-flex-basis:33%;
+/*flex-basis:33%;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin:5px;
-    font-size:1em;
+    font-size:1em;*/
    
 }
 
