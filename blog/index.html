@@ -12,7 +12,7 @@ title: Leaning Blog
 		    <div> {{ post.content| truncate: 400 }} </div>} -->
 		    {{ post.date | date_to_string }}
 		    <a href="{{ post.url }}">{{ post.title }}</a>
-		   {{ post.content }}
+		   {{ post.content| truncate: 300 }}
 		    
 	    </li>
 		 
