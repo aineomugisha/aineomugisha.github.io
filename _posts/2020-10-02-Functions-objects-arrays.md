@@ -2,11 +2,11 @@
 layout: post
 title: "Functions, Objects and Arrays"
 date: 2020-10-02
-excerpt: Your custom excerpt.
+
 ---
 
 Syntax of a funtion 
-<img src="/images/function.png" alt="syntax of function">
+<br><img src="/images/function.png" alt="syntax of function">
 <br><em>Things I learnt today</em>
 <br>-Creating Objects 
 <br><img src="/images/objectExample.png" alt="syntax of object">
