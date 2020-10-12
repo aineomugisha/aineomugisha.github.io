@@ -7,7 +7,7 @@ title: Leaning Blog
 		
 	<li>{% for post in paginator.posts %} 
 {{ post.title }}
-{{ post.content | strip_html | truncatewords:300 }}
+{{ post.content | truncatewords:300 }}
 {% endfor %}
 
 	
