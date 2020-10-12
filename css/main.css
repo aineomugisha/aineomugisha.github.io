@@ -106,7 +106,7 @@ ul.posts {
 .posts{
     display:flex;
     flex-wrap:wrap;
-    overflow:hidden;
+    overflow:auto;
     /*height:300px;*/
     height:100%;
  
