@@ -6,17 +6,9 @@ title: Leaning Blog
 	<ul class="posts">
 		
 	<li>{% for post in paginator.posts %} 
-{{ post.title }}
-{{ post.content | truncatewords:300 }}
-{% endfor %}
-
-	
-	   
-		 
-		
-	
-		
-		
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+{{ post.content | truncatewords:200 }}
+{% endfor %}	 	
 	</ul>
 
 
