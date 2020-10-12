@@ -107,7 +107,7 @@ ul.posts {
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
-    overflow:hidden;
+   /* overflow:hidden;*/
     height:400px;
    
 }
