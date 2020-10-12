@@ -110,8 +110,8 @@ ul.posts {
     height:300px;
    
 }
-.posts>li{
-flex-basis:300px;
+.posts li{
+flex-basis:100px;
     flex-grow:1;
      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin:5px;
