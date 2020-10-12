@@ -12,7 +12,7 @@ title: Leaning Blog
 		    <div> {{ post.content| truncate: 400 }} </div>} -->
 		    {{ post.date | date_to_string }}
 		    <a href="{{ post.url }}">{{ post.title }}</a>
-		   {{ post.content| truncate: 300 }}
+		   {{ post.content| truncate: 200 }}
 		    
 	    </li>
 		 
@@ -21,9 +21,7 @@ title: Leaning Blog
 		
 		
 	</ul>
-<p class='loadmore'><button type="button"
-onclick="getElementsByClassName('.posts').style.overflow: 'auto'">
-			LOAD MORE</button></p>
+
 
 
 <!--{% for post in site.posts %}
