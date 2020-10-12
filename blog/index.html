@@ -9,9 +9,9 @@ title: Leaning Blog
 		<li>  {{ post.date | date_to_string }}
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 {{ post.content | truncate:200 }}</li>
-{% endfor %}	 	
-	
+		{% endfor %}	</ul>
 
+<section class='pagination'>
 
 {% if paginator.total_pages != 1 %}  
     <div class="row text-center text-caps">
@@ -47,4 +47,4 @@ title: Leaning Blog
 {% endif %}
 {% endif %}
 {% endif %}
-		</ul>
+		</section>
