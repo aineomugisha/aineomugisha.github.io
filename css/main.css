@@ -156,4 +156,7 @@ height:40px;}
     img{width:150px;
     height: 150px;}*/
   }
+.pagination{
+flex-basis:100%;
+}
 
