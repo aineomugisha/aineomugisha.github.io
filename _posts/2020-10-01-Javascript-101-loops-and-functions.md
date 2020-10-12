@@ -3,6 +3,19 @@ layout: post
 title: "Javascript loops and funtions"
 date: 2020-10-01
 ---
-The final version of the app.js file looks like that, in this file we have the two methods for conversion and the event listeners.
-First, we get the arabicInput and the romanInput, and for both of them, we are listening for the input action. For arabicInput every time, a number is entered the arabicToRoman method is called and puts its value into the romanInput.value. On the other hand for the romanInput, every time a roman numeral is entered it calls the romanToArabic method and puts its value into the arabicInput.value.
+Continued to practice writing Pseudo code
+
+
+<br><em>Things I learnt today</em>
+
+<br>- For loop syntax
+
+<br>- To count each character in a string
+<br><img src="/images/noCharacters.png" alt="code for counting number of characters">
+
+<br>- To get the year for today's date by calling the funtion new Date ()
+<br>- Learnt how to print stuff on a new line while using console log
 <br><img src="/images/ageCalculator.png" alt="code for showing retirement age calculator and how to extract the year using new Date function">
+
+How to replace characters in a string
+<br><img src="/images/quotes.png" alt="code with replacing special characters">
