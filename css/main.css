@@ -109,8 +109,8 @@ ul.posts {
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
-   /* overflow:hidden;*/
-    height:400px;
+   /* overflow:hidden;
+    height:400px;*/
    
 }
 .posts li{
