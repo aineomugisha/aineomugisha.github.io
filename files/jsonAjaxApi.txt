@@ -1,0 +1,57 @@
+Http requests
+Get
+Post
+Put: To edit information 
+Delete: To delete twitter post or account
+
+Http Responses 
+Consists of two parts 
+- Status code eg 200 if successful 404 n0t f0und
+500 Server not found, 304 from browser cache
+- Data eg... html css
+
+Network Tab 
+Displays all information of method 
+
+ctr, shift R to force a browser to reload
+
+Https: 
+Transport layer secutiy, 
+secure sockets layer   
+
+eXtensible markup language
+JSON- Javascript Object notation
+JSON.parse parse it as an object for Javascript
+JSON.stringify convert it back to a simple string
+
+Ajax-- display data without reloading the whole page. server sending suggestions while searching is an example
+ 
+AJAX - Asynchronchronous Javascript and XML
+
+API: Application Programming Interface... determines the rules of communication between two parties. Is the like a language translator
+
+Fetch API 
+Jason placeholder (important resourse)... try with fake data
+Syntax.. Fetch method
+fetch('url'/number of objects) 
+.then(response=>response.json()) pass as an object
+
+.then(json => console.log(json))
+
+2 possibilities of a promise
+Promise is kept/resolved 
+There would an error a (reason)
+
+Callbacks-- examples event listener.. waiting for a response 
+
+Nested callbacks used in games forexample 
+pyramid of doom(repitition of code, difficult to read)
+
+API makes it easier with 'then do something'. You only have to call a funtion one time. A lot easier to read syntax
+
+Syncronous: One step at a time(single threaded). No two things parallel
+Asyncronous: Puts in AJAX as a second thread so that stuff can be done in parallel. 
+
+JsonView extention shows information directory in the browser 
+Fetch API and promises 
+In frameworks you can use the latest javascript and rendor it in a way that is understood by browsers..  
