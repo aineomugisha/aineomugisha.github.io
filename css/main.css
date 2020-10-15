@@ -48,8 +48,8 @@ nav ul li, footer ul li, header ul li {
 nav{
     display:flex;
     justify-content: center;
-    border-top:3px solid #d5d5d5;
-    border-bottom:3px solid #d5d5d5;
+    border-top:3px solid black;
+    border-bottom:3px solid black;
     /*  width:100%;*/
    text-align:center;
     margin:auto;
@@ -161,7 +161,6 @@ height:40px;}
     display:block;
     width=100%
     padding:10px;
-        background-color:grey;
-    
+   
 }
 
