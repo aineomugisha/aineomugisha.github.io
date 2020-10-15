@@ -1,0 +1,25 @@
+If doing CSS from scratch rem is a better font size format 
+Problem with vh, vw, they become too small on small screen same as on huge screens. Font can become very big
+
+Way around this
+- use maximum font size and minimum font size
+
+for dektop querry selector use, px value to make sure it is not getting to big
+and on small screeen too px
+
+For rem state the font size in html because that is the base
+
+Use pt for letter spacing. It is a lot cleaner
+Pt is used for printing
+
+Default font in * 1.6em
+
+Also start with HTML, CSS and then JS
+always use add eventListener
+
+Using var ensures that the the variable is accessible in the whole funtion. 
+Var creates global variables 
+Variables created using var are attached the window object 
+For example var color ="red" can be accessed by window.color
+
+Avoid adding stuff to the window object: It makes it easy for them to be replaced by 3rd party code
