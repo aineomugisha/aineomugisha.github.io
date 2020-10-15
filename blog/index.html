@@ -16,7 +16,7 @@ title: Leaning Blog
 {% if paginator.total_pages != 1 %}  
     <div class="row text-center text-caps">
         <div class="col-md-8 col-md-offset-2">
-            <nav class="pagination" role="pagination">
+            <article> class="pagination" role="pagination">
 
 <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 {% if site.paginate_path != 'page:num'%}
@@ -41,10 +41,10 @@ title: Leaning Blog
 {% endif %}
 {% if paginator.next_page %} 
 <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &rarr;</a>
-            </nav>
+            </section>
         </div>
     </div>
 {% endif %}
 {% endif %}
 {% endif %}
-		</section>
+		</article>
